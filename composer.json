@@ -1,6 +1,6 @@
 {
     "name": "phpwatch/array_key_first_last-polyfill",
-    "description": "A simple polyfill to make PHP 7.3's array_key_first and array_key_last functions available to all",
+    "description": "A simple polyfill to make PHP 7.3's array_key_first and array_key_last functions available to all.",
     "type": "library",
     "require": {
         "php": "^5.3 || ^7.0"
