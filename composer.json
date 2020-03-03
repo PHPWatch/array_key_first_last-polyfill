@@ -9,5 +9,11 @@
         "phpunit/phpunit": "^4.8"
     },
     "license": "MIT",
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/array_key_first.php",
+            "src/array_key_last.php"
+        ]
+    }
 }
