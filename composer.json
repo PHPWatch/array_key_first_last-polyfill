@@ -12,8 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "files": [
-            "src/array_key_first.php",
-            "src/array_key_last.php"
+            "src/array_key_first_last.php"
         ]
     }
 }
