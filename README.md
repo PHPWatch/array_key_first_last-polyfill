@@ -45,5 +45,5 @@ Please note that tests and other deveopment dependencies are not included when y
 
 ## Credits
 
-[@Ayesh](https://github.com/Ayesh): [Ayesh Karunaratne](https://ayesh.me).
-[@peter279k](https://github.com/peter279k): [Chun-Sheng, Li](https://peterli.website/).
+ - [@Ayesh](https://github.com/Ayesh): [Ayesh Karunaratne](https://ayesh.me).
+ - [@peter279k](https://github.com/peter279k): [Chun-Sheng, Li](https://peterli.website/).
