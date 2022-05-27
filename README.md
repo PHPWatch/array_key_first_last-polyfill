@@ -1,4 +1,4 @@
-# PhpToken Polyfill
+# array_key_first_last Polyfill
 
 A polyfill to bring the [PHP 7.3 `array_key_first`](https://www.php.net/manual/en/function.array-key-first.php) and [PHP 7.3 `array_key_last`](https://www.php.net/manual/en/function.array-key-last.php) functions to PHP 5.3 and later.
 

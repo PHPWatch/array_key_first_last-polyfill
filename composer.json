@@ -3,7 +3,7 @@
     "description": "A simple polyfill to make PHP 7.3's array_key_first and array_key_last functions available to all.",
     "type": "library",
     "require": {
-        "php": "^5.3 || ^7.0"
+        "php": "^5.3 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.36 || ^5.7 || ^6.5 || ^7.0 || ^8.0 || ^9.0"
