@@ -2,6 +2,8 @@
 
 A polyfill to bring the [PHP 7.3 `array_key_first`](https://www.php.net/manual/en/function.array-key-first.php) and [PHP 7.3 `array_key_last`](https://www.php.net/manual/en/function.array-key-last.php) functions to PHP 5.3 and later.
 
+**All PHP 7 versions are now EOL, and to lessen the upgrade gap, this project is now archive on GitHub, and marked as abandoned on Packagist. It will continue to work, but applications that depend this polyfill are strongly recommended to migrate to PHP 8 or later**.
+
 [![Latest Stable Version](https://poser.pugx.org/phpwatch/array_key_first_last-polyfill/v/stable)](https://packagist.org/packages/phpwatch/array_key_first_last-polyfill) [![License](https://poser.pugx.org/phpwatch/array_key_first_last-polyfill/license)](https://github.com/phpwatch/array_key_first_last-polyfill)  [![CI](https://github.com/phpwatch/array_key_first_last-polyfill/workflows/CI/badge.svg)](https://github.com/phpwatch/array_key_first_last-polyfill/actions)
 
 ## Synopsis
