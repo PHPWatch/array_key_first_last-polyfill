@@ -14,5 +14,6 @@
         "files": [
             "src/array_key_first_last.php"
         ]
-    }
+    },
+	"abandoned": "symfony/polyfill-php73"
 }
